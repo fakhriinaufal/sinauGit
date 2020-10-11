@@ -1,4 +1,6 @@
 Ini aku
 nambah
 baris
+tapi ini baris
+juga baru
 beberapa
